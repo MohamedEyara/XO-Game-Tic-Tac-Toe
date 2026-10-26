@@ -35,11 +35,11 @@ frist.xogame
 ## ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/MohamedEyara/XO-Game-Tic-Tac-Toe-.git
+   git clone https://github.com/MohamedEyara/XO-Game-Tic-Tac-Toe.git
    
-3. Open the project in your IDE (IntelliJ / Eclipse)
+2. Open the project in your IDE (IntelliJ / Eclipse)
 
-4. Run the `Game` class
+3. Run the `Game` class
 
 ---
 
